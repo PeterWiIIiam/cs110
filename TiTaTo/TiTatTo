@@ -1,0 +1,12 @@
+    class TTTSpace(object):
+
+    """docstring for TTTSpace"""
+
+    def __init__(self, arg):
+
+        self._value
+        self._box
+        self._text
+        self._row
+        self._col
+        self._activated

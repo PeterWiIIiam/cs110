@@ -1,0 +1,195 @@
+====== Testing Begin ======
+------ 1. test1-pool ------
+compare_program -i ./student-pool ./authority-pool < pool/testA1
+Test passed
+
+PASSED
+
+------ 2. test2-pool ------
+compare_program -i ./student-pool ./authority-pool < pool/testA2
+Test passed
+
+PASSED
+
+------ 3. test3-pool ------
+compare_program -i ./student-pool ./authority-pool < pool/testA3
+Test passed
+
+PASSED
+
+------ 4. test4-pool ------
+compare_program -i ./student-pool ./authority-pool < pool/testA4
+Test passed
+
+PASSED
+
+------ 5. test5-pool ------
+compare_program -i ./student-pool ./authority-pool < pool/testA5
+Test passed
+
+PASSED
+
+------ 6. test6-pool ------
+compare_program -i ./student-pool ./authority-pool < pool/testA6
+Test passed
+
+PASSED
+
+------ 7. test7-pool ------
+compare_program -i ./student-pool ./authority-pool < pool/testA7
+Test passed
+
+PASSED
+
+------ 8. test8-pool ------
+compare_program -i ./student-pool ./authority-pool < pool/testA8
+Test passed
+
+PASSED
+
+------ 9. test1-pizzas ------
+compare_program -i ./student-pizzas ./authority-pizzas < pizzas/testD-
+Test passed
+
+PASSED
+
+------ 10. test2-pizzas ------
+compare_program -i ./student-pizzas ./authority-pizzas < pizzas/testD
+Test passed
+
+PASSED
+
+------ 11. test3-pizzas ------
+compare_program -i ./student-pizzas ./authority-pizzas < pizzas/testD+
+Test passed
+
+PASSED
+
+------ 12. test4-pizzas ------
+compare_program -i ./student-pizzas ./authority-pizzas < pizzas/testB
+Test passed
+
+PASSED
+
+------ 13. test5-pizzas ------
+compare_program -i ./student-pizzas ./authority-pizzas < pizzas/testB+
+Test passed
+
+PASSED
+
+------ 14. test6-pizzas ------
+compare_program -i ./student-pizzas ./authority-pizzas < pizzas/testA-
+Test passed
+
+PASSED
+
+------ 15. test7-pizzas ------
+compare_program -i ./student-pizzas ./authority-pizzas < pizzas/testA
+Test passed
+
+PASSED
+
+------ 16. test8-pizzas ------
+compare_program -i ./student-pizzas ./authority-pizzas < pizzas/testC
+Test passed
+
+PASSED
+
+------ 17. test1-watch ------
+compare_program -i ./student-watch ./authority-watch < watch/testA1
+Test passed
+
+PASSED
+
+------ 18. test2-watch ------
+compare_program -i ./student-watch ./authority-watch < watch/testA2
+Test passed
+
+PASSED
+
+------ 19. test3-watch ------
+compare_program -i ./student-watch ./authority-watch < watch/testA3
+Test passed
+
+PASSED
+
+------ 20. test4-watch ------
+compare_program -i ./student-watch ./authority-watch < watch/testA4
+Test passed
+
+PASSED
+
+------ 21. test5-watch ------
+compare_program -i ./student-watch ./authority-watch < watch/testA5
+Test passed
+
+PASSED
+
+------ 22. test6-watch ------
+compare_program -i ./student-watch ./authority-watch < watch/testA6
+Test passed
+
+PASSED
+
+------ 23. test8-watch ------
+compare_program -i ./student-watch ./authority-watch < watch/testA8
+Test passed
+
+PASSED
+
+------ 24. test8-watch ------
+compare_program -i ./student-watch ./authority-watch < watch/testA8
+Test passed
+
+PASSED
+
+------ 25. test1-metricTime ------
+compare_program -i ./student-metricTime ./authority-metricTime < metricTime/testD
+Test passed
+
+PASSED
+
+------ 26. test2-metricTime ------
+compare_program -i ./student-metricTime ./authority-metricTime < metricTime/testD+
+Test passed
+
+PASSED
+
+------ 27. test3-metricTime ------
+compare_program -i ./student-metricTime ./authority-metricTime < metricTime/testC-
+Test passed
+
+PASSED
+
+------ 28. test4-metricTime ------
+compare_program -i ./student-metricTime ./authority-metricTime < metricTime/testC
+Test passed
+
+PASSED
+
+------ 29. test5-metricTime ------
+compare_program -i ./student-metricTime ./authority-metricTime < metricTime/testB
+Test passed
+
+PASSED
+
+------ 30. test6-metricTime ------
+compare_program -i ./student-metricTime ./authority-metricTime < metricTime/testB+
+Test passed
+
+PASSED
+
+------ 31. test7-metricTime ------
+compare_program -i ./student-metricTime ./authority-metricTime < metricTime/testA-
+Test passed
+
+PASSED
+
+------ 32. test8-metricTime ------
+compare_program -i ./student-metricTime ./authority-metricTime < metricTime/testA
+Test passed
+
+PASSED
+
+====== Testing End ======
+Passed 32 out of 32

@@ -1,0 +1,187 @@
+
+Test 1: additive_prime(2)
+Student   result: True
+Authority result: True
+PASSED
+
+Test 2: additive_prime(11)
+Student   result: True
+Authority result: True
+PASSED
+
+Test 3: additive_prime(29)
+Student   result: True
+Authority result: True
+PASSED
+
+Test 4: additive_prime(2939)
+Student   result: True
+Authority result: True
+PASSED
+
+Test 5: additive_prime(2957)
+Student   result: True
+Authority result: True
+PASSED
+
+Test 6: additive_prime(2999)
+Student   result: True
+Authority result: True
+PASSED
+
+Test 7: additive_prime(3011)
+Student   result: True
+Authority result: True
+PASSED
+
+Test 8: additive_prime(58439)
+Student   result: True
+Authority result: True
+PASSED
+
+Test 9: additive_prime(59009)
+Student   result: True
+Authority result: True
+PASSED
+
+Test 10: additive_prime(59999)
+Student   result: True
+Authority result: True
+PASSED
+
+Test 11: additive_prime(-3)
+Student   result: False
+Authority result: False
+PASSED
+
+Test 12: additive_prime(-1)
+Student   result: False
+Authority result: False
+PASSED
+
+Test 13: additive_prime(0)
+Student   result: False
+Authority result: False
+PASSED
+
+Test 14: additive_prime(1)
+Student   result: False
+Authority result: False
+PASSED
+
+Test 15: additive_prime(6)
+Student   result: False
+Authority result: False
+PASSED
+
+Test 16: additive_prime(17)
+Student   result: False
+Authority result: False
+PASSED
+
+Test 17: additive_prime(2998)
+Student   result: False
+Authority result: False
+PASSED
+
+Test 18: additive_prime(3013)
+Student   result: False
+Authority result: False
+PASSED
+
+Test 19: additive_prime(59981)
+Student   result: False
+Authority result: False
+PASSED
+
+Test 20: additive_prime(60257)
+Student   result: False
+Authority result: False
+PASSED
+
+Test 21: additive_prime(37)
+Student   result: False
+Authority result: False
+PASSED
+
+Test 22: additive_prime(89)
+Student   result: False
+Authority result: False
+PASSED
+
+Test 23: additive_prime(103)
+Student   result: False
+Authority result: False
+PASSED
+
+Test 24: additive_prime(157)
+Student   result: False
+Authority result: False
+PASSED
+
+Test 25: additive_prime(199)
+Student   result: False
+Authority result: False
+PASSED
+
+Test 26: additive_prime(293)
+Student   result: False
+Authority result: False
+PASSED
+
+Test 27: additive_primes_list(10)
+Student   result: [2, 3, 5, 7]
+Authority result: [2, 3, 5, 7]
+PASSED
+
+Test 28: additive_primes_list(100)
+Student   result: [2, 3, 5, 7, 11, 23, 29, 41, 43, 47, 61, 83]
+Authority result: [2, 3, 5, 7, 11, 23, 29, 41, 43, 47, 61, 83]
+PASSED
+
+Test 29: additive_primes_list(200)
+Student   result: [2, 3, 5, 7, 11, 23, 29, 41, 43, 47, 61, 83, 101, 113, 131, 137, 151, 173, 191]
+Authority result: [2, 3, 5, 7, 11, 23, 29, 41, 43, 47, 61, 83, 101, 113, 131, 137, 151, 173, 191]
+PASSED
+
+Test 30: additive_primes_list(300)
+Student   result: [2, 3, 5, 7, 11, 23, 29, 41, 43, 47, 61, 83, 101, 113, 131, 137, 151, 173, 191, 223, 227, 241, 263, 281]
+Authority result: [2, 3, 5, 7, 11, 23, 29, 41, 43, 47, 61, 83, 101, 113, 131, 137, 151, 173, 191, 223, 227, 241, 263, 281]
+PASSED
+
+Test 31: additive_primes_list(400)
+Student   result: [2, 3, 5, 7, 11, 23, 29, 41, 43, 47, 61, 83, 101, 113, 131, 137, 151, 173, 191, 223, 227, 241, 263, 281, 311, 313, 317, 331, 353]
+Authority result: [2, 3, 5, 7, 11, 23, 29, 41, 43, 47, 61, 83, 101, 113, 131, 137, 151, 173, 191, 223, 227, 241, 263, 281, 311, 313, 317, 331, 353]
+PASSED
+
+Test 32: additive_primes_list(500)
+Student   result: [2, 3, 5, 7, 11, 23, 29, 41, 43, 47, 61, 83, 101, 113, 131, 137, 151, 173, 191, 223, 227, 241, 263, 281, 311, 313, 317, 331, 353, 401, 421, 443, 461]
+Authority result: [2, 3, 5, 7, 11, 23, 29, 41, 43, 47, 61, 83, 101, 113, 131, 137, 151, 173, 191, 223, 227, 241, 263, 281, 311, 313, 317, 331, 353, 401, 421, 443, 461]
+PASSED
+
+Test 33: additive_primes_list(600)
+Student   result: [2, 3, 5, 7, 11, 23, 29, 41, 43, 47, 61, 83, 101, 113, 131, 137, 151, 173, 191, 223, 227, 241, 263, 281, 311, 313, 317, 331, 353, 401, 421, 443, 461, 599]
+Authority result: [2, 3, 5, 7, 11, 23, 29, 41, 43, 47, 61, 83, 101, 113, 131, 137, 151, 173, 191, 223, 227, 241, 263, 281, 311, 313, 317, 331, 353, 401, 421, 443, 461, 599]
+PASSED
+
+Test 34: additive_primes_list(700)
+Student   result: [2, 3, 5, 7, 11, 23, 29, 41, 43, 47, 61, 83, 101, 113, 131, 137, 151, 173, 191, 223, 227, 241, 263, 281, 311, 313, 317, 331, 353, 401, 421, 443, 461, 599, 601, 641]
+Authority result: [2, 3, 5, 7, 11, 23, 29, 41, 43, 47, 61, 83, 101, 113, 131, 137, 151, 173, 191, 223, 227, 241, 263, 281, 311, 313, 317, 331, 353, 401, 421, 443, 461, 599, 601, 641]
+PASSED
+
+Test 35: additive_primes_list(800)
+Student   result: [2, 3, 5, 7, 11, 23, 29, 41, 43, 47, 61, 83, 101, 113, 131, 137, 151, 173, 191, 223, 227, 241, 263, 281, 311, 313, 317, 331, 353, 401, 421, 443, 461, 599, 601, 641, 797]
+Authority result: [2, 3, 5, 7, 11, 23, 29, 41, 43, 47, 61, 83, 101, 113, 131, 137, 151, 173, 191, 223, 227, 241, 263, 281, 311, 313, 317, 331, 353, 401, 421, 443, 461, 599, 601, 641, 797]
+PASSED
+
+Test 36: additive_primes_list(900)
+Student   result: [2, 3, 5, 7, 11, 23, 29, 41, 43, 47, 61, 83, 101, 113, 131, 137, 151, 173, 191, 223, 227, 241, 263, 281, 311, 313, 317, 331, 353, 401, 421, 443, 461, 599, 601, 641, 797, 821, 887]
+Authority result: [2, 3, 5, 7, 11, 23, 29, 41, 43, 47, 61, 83, 101, 113, 131, 137, 151, 173, 191, 223, 227, 241, 263, 281, 311, 313, 317, 331, 353, 401, 421, 443, 461, 599, 601, 641, 797, 821, 887]
+PASSED
+
+Test 37: additive_primes_list(3000)
+Student   result: [2, 3, 5, 7, 11, 23, 29, 41, 43, 47, 61, 83, 101, 113, 131, 137, 151, 173, 191, 223, 227, 241, 263, 281, 311, 313, 317, 331, 353, 401, 421, 443, 461, 599, 601, 641, 797, 821, 887, 911, 977, 1013, 1019, 1031, 1033, 1051, 1091, 1103, 1109, 1123, 1163, 1181, 1213, 1217, 1231, 1301, 1303, 1307, 1321, 1361, 1433, 1451, 1499, 1523, 1613, 1697, 1721, 1787, 1811, 1877, 1901, 1949, 2003, 2027, 2063, 2081, 2111, 2113, 2131, 2153, 2203, 2207, 2221, 2243, 2311, 2333, 2351, 2399, 2423, 2441, 2531, 2579, 2621, 2687, 2711, 2777, 2801, 2939, 2957, 2999]
+Authority result: [2, 3, 5, 7, 11, 23, 29, 41, 43, 47, 61, 83, 101, 113, 131, 137, 151, 173, 191, 223, 227, 241, 263, 281, 311, 313, 317, 331, 353, 401, 421, 443, 461, 599, 601, 641, 797, 821, 887, 911, 977, 1013, 1019, 1031, 1033, 1051, 1091, 1103, 1109, 1123, 1163, 1181, 1213, 1217, 1231, 1301, 1303, 1307, 1321, 1361, 1433, 1451, 1499, 1523, 1613, 1697, 1721, 1787, 1811, 1877, 1901, 1949, 2003, 2027, 2063, 2081, 2111, 2113, 2131, 2153, 2203, 2207, 2221, 2243, 2311, 2333, 2351, 2399, 2423, 2441, 2531, 2579, 2621, 2687, 2711, 2777, 2801, 2939, 2957, 2999]
+PASSED
+
+Passed 37 out of 37 tests

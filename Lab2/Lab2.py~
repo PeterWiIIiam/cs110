@@ -1,0 +1,13 @@
+def function1():
+    expr = input("Enter an expression: ")
+    val = eval(expr)
+    print(expr, "is", val, "with type", type(val).__name__)
+
+def function2():
+    pass
+
+def function3():
+    yards = int(input("Enter field length in yards: "))
+    
+if __name__ == "__main__":
+    function1()

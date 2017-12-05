@@ -1,0 +1,5 @@
+cp: cannot open `/home/acampbel/submit/acampbel/110/bots/tests/authbots.py~' for reading: Permission denied
+====== Testing Begin ======
+First running your program.
+Next running our program.  Two of your bots move toward each other, 
+crash, then turn around and move back.
